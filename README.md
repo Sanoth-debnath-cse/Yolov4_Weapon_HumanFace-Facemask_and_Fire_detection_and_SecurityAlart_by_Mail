@@ -6,4 +6,4 @@
 <li>Here is the link of Dataset--https://drive.google.com/file/d/1SDx9hc5pj0rwakT-c_M6brRgkDVXh9p2/view?usp=sharing</li>
 <li>And 10% of this dataset has been kept for testing purposes. here is the tasting dataset link..https://drive.google.com/drive/folders/1Hh8jzDdGWR9Lzc4YgoPhsm1i69QTaUsI?usp=sharing</li>
 <li>The darknet repository for Yolov4 detection.https://drive.google.com/drive/folders/1AYffb9SBqcgI7vFQiUxh8vA-SjGjndQ6?usp=sharing</li>
-<li>#And the weight file of this model is here...https://drive.google.com/drive/folders/1dYIUKJGG0iZ6FemYcN_e7rJNxMX4yOLO?usp=sharing</li>
+<li>And the weight file of this model is here...https://drive.google.com/drive/folders/1dYIUKJGG0iZ6FemYcN_e7rJNxMX4yOLO?usp=sharing</li>
