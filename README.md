@@ -1,4 +1,4 @@
-#AI-based Real-time Robbery/Fire and Mask detection by CCTV Camera and Warning system.
+<li>#AI-based Real-time Robbery/Fire and Mask detection by CCTV Camera and Warning system.</li>
 #It's a final year project work, here is the report and full process.https://drive.google.com/file/d/16BoVPYydJB6Q80leYb4eUlJBrgDTcXmh/view?usp=sharing
 #This model detects 4 classes including Weapon, Facemask, without Facemask, and fire. 
 #And detects the violent frame and sends it to the security officer in real-time.
